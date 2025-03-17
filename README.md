@@ -1,26 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=Hi+👋,+I'm+[Your+Name];Full-Stack+Developer;Open-Source+Enthusiast;Tech+Blogger" alt="Typing Animation" />
-</h1>
+<h1 align="center">👋 Hi, I'm Md Sabbir Mridha</h1>
+<h3 align="center">🚀 Full-Stack Developer | Open-Source Enthusiast | Tech Blogger</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <a href="https://github.com/your-S8374">
+    <img src="https://komarev.com/ghpvc/?username=your-S8374&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/your-S8374?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
 ---
 
-## 🖼️ **Cover Photo**
-<p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/cover.jpg?raw=true" alt="Cover Photo" width="100%" />
-</p>
-
----
-
-## 👨‍💻 **About Me**
+## 👨‍💻 About Me
 
 I'm a passionate **Full-Stack Developer** with expertise in building scalable web applications and contributing to open-source projects. I love solving complex problems and sharing my knowledge through blogs and tutorials. Let's connect and collaborate!
 
@@ -33,7 +25,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 ---
 
-## 🛠️ **Technologies & Tools**
+## 🛠️ Technologies & Tools
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -62,17 +54,17 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S8374&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-S8374&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-S8374&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-S8374&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
 ### 1. [Project Name](https://github.com/your-username/project-repo)
 ![Project Badge](https://img.shields.io/badge/-Live_Demo-green)
@@ -84,7 +76,7 @@ A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 📝 **Latest Blog Posts**
+## 📝 Latest Blog Posts
 
 - [How to Build a Scalable Web Application](https://your-blog-link.com)
 - [Getting Started with Docker and Kubernetes](https://your-blog-link.com)
@@ -92,7 +84,7 @@ A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 🤝 **Let's Connect**
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile">
@@ -111,10 +103,10 @@ A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 💡 **Fun Fact**
+## 💡 Fun Fact
 
 I once automated my entire morning routine using Python and Raspberry Pi! ☕🤖
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [MD SABBIR MRIDHA](https://github.com/your-S8374)
