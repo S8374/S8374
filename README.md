@@ -1,81 +1,78 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
-<h3 align="center">🚀 Full-Stack Developer | Open-Source Enthusiast | Tech Blogger</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=Hi+👋,+I'm+Md+Sabbir+Mridha;Frontend+Developer;Backend+Enthusiast;Open-Source+Contributor" alt="Typing Animation" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/S8374">
     <img src="https://komarev.com/ghpvc/?username=S8374&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://github.com/your-username?tab=followers">
+  <a href="https://github.com/S8374?tab=followers">
     <img src="https://img.shields.io/github/followers/S8374?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 **About Me**
 
-I'm a passionate **Full-Stack Developer** with expertise in building scalable web applications and contributing to open-source projects. I love solving complex problems and sharing my knowledge through blogs and tutorials. Let's connect and collaborate!
+I'm a passionate **Frontend Developer** with expertise in building modern, responsive, and user-friendly web applications. I also have a solid understanding of backend development, which allows me to create full-stack solutions. I love solving complex problems, contributing to open-source projects, and continuously learning new technologies. Let's connect and collaborate!
 
 - 🔭 I’m currently working on **[Project Name]**.
-- 🌱 I’m currently learning **Machine Learning**.
+- 🌱 I’m currently learning **Advanced React and Node.js**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
-- 💬 Ask me about **React, Node.js, Python, or DevOps**.
+- 💬 Ask me about **React, JavaScript, Node.js, or Frontend Development**.
 - 📫 How to reach me: **[Your Email]** or **[Social Media Links]**.
-- ⚡ Fun fact: I automate my daily tasks using Python scripts! 🤖
+- ⚡ Fun fact: I automate my daily tasks using JavaScript! 🤖
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+## 🛠️ **Technologies & Tools**
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S8374&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S8374&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S8374&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S8374&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 **Featured Projects**
 
-### 1. [Project Name](https://github.com/your-username/project-repo)
+### 1. [Project Name](https://github.com/S8374/project-repo)
 ![Project Badge](https://img.shields.io/badge/-Live_Demo-green)
 A brief description of your project. Highlight the tech stack and key features.
 
-### 2. [Project Name](https://github.com/your-username/project-repo)
+### 2. [Project Name](https://github.com/S8374/project-repo)
 ![Project Badge](https://img.shields.io/badge/-Open_Source-blue)
 A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 **Latest Blog Posts**
 
 - [How to Build a Scalable Web Application](https://your-blog-link.com)
 - [Getting Started with Docker and Kubernetes](https://your-blog-link.com)
@@ -83,7 +80,7 @@ A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 **Let's Connect**
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile">
@@ -102,10 +99,10 @@ A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 💡 Fun Fact
+## 💡 **Fun Fact**
 
-I once automated my entire morning routine using Python and Raspberry Pi! ☕🤖
+I once automated my entire morning routine using JavaScript! ☕🤖
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-S8374)
+⭐️ From [Md Sabbir Mridha](https://github.com/S8374)
