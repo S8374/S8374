@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Full-Stack Developer | Open-Source Enthusiast | Tech Blogger</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <a href="https://github.com/S8374">
+    <img src="https://komarev.com/ghpvc/?username=S8374&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/S8374?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -57,9 +57,9 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S8374&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S8374&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S8374&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -109,4 +109,4 @@ I once automated my entire morning routine using Python and Raspberry Pi! ☕�
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Your Name](https://github.com/your-S8374)
