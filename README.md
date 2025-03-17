@@ -1,108 +1,93 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=Hi+👋,+I'm+Md+Sabbir+Mridha;Frontend+Developer;Backend+Enthusiast;Open-Source+Contributor" alt="Typing Animation" />
-</h1>
+# Hi there, I'm Oussama 👋
 
-<p align="center">
-  <a href="https://github.com/S8374">
-    <img src="https://komarev.com/ghpvc/?username=S8374&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/S8374?tab=followers">
-    <img src="https://img.shields.io/github/followers/S8374?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+<div align="center">
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+</div>
+
+
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        <span><strong>Programming Languages & Frameworks</strong></span>
+      </td>
+    </tr>
+  </thead>
+  <br /><br />
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
+</div>
+
+<br /><br />
+
+## About me
+I am Oussama Bouchikhi from Algeria, I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
+My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
+I always want to learn new things.
+
+<br /><br />
+
+## My Github stats
+
+<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
+  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&hide=python,tcl&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=3" /> -->
+</a>
+<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
+</a>
+
+<p>
+  <b>For more Github info </b>
+  <a href="https://gitprofilee.netlify.app/user?id=oussamabouchikhi">check this</a>
 </p>
 
----
+<br /><br />
 
-## 👨‍💻 **About Me**
+## My Badges
+[![@oussamabouchikhi's Holopin board](https://holopin.io/api/user/board?user=oussamabouchikhi)](https://www.holopin.io/@oussamabouchikhi)
 
-I'm a passionate **Frontend Developer** with expertise in building modern, responsive, and user-friendly web applications. I also have a solid understanding of backend development, which allows me to create full-stack solutions. I love solving complex problems, contributing to open-source projects, and continuously learning new technologies. Let's connect and collaborate!
+<br /><br />
 
-- 🔭 I’m currently working on **[Project Name]**.
-- 🌱 I’m currently learning **Advanced React and Node.js**.
-- 👯 I’m looking to collaborate on **Open-Source Projects**.
-- 💬 Ask me about **React, JavaScript, Node.js, or Frontend Development**.
-- 📫 How to reach me: **[Your Email]** or **[Social Media Links]**.
-- ⚡ Fun fact: I automate my daily tasks using JavaScript! 🤖
 
----
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)
 
-## 🛠️ **Technologies & Tools**
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+<h2><i>Follow me:</i></h2>
+<div  align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S8374&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S8374&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🚀 **Featured Projects**
-
-### 1. [Project Name](https://github.com/S8374/project-repo)
-![Project Badge](https://img.shields.io/badge/-Live_Demo-green)
-A brief description of your project. Highlight the tech stack and key features.
-
-### 2. [Project Name](https://github.com/S8374/project-repo)
-![Project Badge](https://img.shields.io/badge/-Open_Source-blue)
-A brief description of your project. Highlight the tech stack and key features.
-
----
-
-## 📝 **Latest Blog Posts**
-
-- [How to Build a Scalable Web Application](https://your-blog-link.com)
-- [Getting Started with Docker and Kubernetes](https://your-blog-link.com)
-- [Top 5 React Libraries You Should Know](https://your-blog-link.com)
-
----
-
-## 🤝 **Let's Connect**
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.instagram.com/ousstheboss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
   </a>
-  <a href="https://medium.com/@your-handle">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+
+ <a href="https://twitter.com/oussth3boss/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
   </a>
-</p>
+   <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+  <a href="https://www.freelancer.com/u/oussamabouchikhi" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01f42213ee8a3771ac" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
+  </a>
+<a href="https://www.fiverr.com/oussama700" target="_blank">
+    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
+  </a>
+</div>
 
----
 
-## 💡 **Fun Fact**
-
-I once automated my entire morning routine using JavaScript! ☕🤖
-
----
-
-⭐️ From [Md Sabbir Mridha](https://github.com/S8374)
