@@ -1,5 +1,6 @@
-<h1 align="center">🚀 Hey there, I'm <span style="color:#FF6F61;">Md Sabbir Mridha</span>!</h1>
-<h3 align="center">✨ Full-Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=Hi+👋,+I'm+[Your+Name];Full-Stack+Developer;Open-Source+Enthusiast;Tech+Blogger" alt="Typing Animation" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/S8374">
@@ -12,49 +13,56 @@
 
 ---
 
-## 🚀 About Me
-
-💡 Passionate **Full-Stack Developer** with a strong background in building scalable applications and contributing to open-source projects. Love solving complex problems and sharing knowledge!
-
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 Currently learning **Machine Learning & AI**
-- 🤝 Looking to collaborate on **Open-Source & Web Development Projects**
-- 💬 Ask me about **React, Node.js, Python, and DevOps**
-- 📫 Reach me at: **[Your Email]** | **[Social Media Links]**
-- ⚡ Fun fact: I automate my daily tasks with Python scripts! 🤖
+## 🖼️ **Cover Photo**
+<p align="center">
+  <img src="https://github.com/S8374/S8374/blob/main/cover.jpg?raw=true" alt="Cover Photo" width="100%" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 **About Me**
 
-### 🚀 Languages
+I'm a passionate **Full-Stack Developer** with expertise in building scalable web applications and contributing to open-source projects. I love solving complex problems and sharing my knowledge through blogs and tutorials. Let's connect and collaborate!
+
+- 🔭 I’m currently working on **[Project Name]**.
+- 🌱 I’m currently learning **Machine Learning**.
+- 👯 I’m looking to collaborate on **Open-Source Projects**.
+- 💬 Ask me about **React, Node.js, Python, or DevOps**.
+- 📫 How to reach me: **[Your Email]** or **[Social Media Links]**.
+- ⚡ Fun fact: I automate my daily tasks using Python scripts! 🤖
+
+---
+
+## 🛠️ **Technologies & Tools**
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 🚀 DevOps & Cloud
+### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S8374&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -64,19 +72,19 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 **Featured Projects**
 
-### 🚀 [Project Name](https://github.com/S8374/project-repo)
+### 1. [Project Name](https://github.com/your-username/project-repo)
 ![Project Badge](https://img.shields.io/badge/-Live_Demo-green)
 A brief description of your project. Highlight the tech stack and key features.
 
-### 🛠️ [Project Name](https://github.com/S8374/project-repo)
+### 2. [Project Name](https://github.com/your-username/project-repo)
 ![Project Badge](https://img.shields.io/badge/-Open_Source-blue)
 A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 **Latest Blog Posts**
 
 - [How to Build a Scalable Web Application](https://your-blog-link.com)
 - [Getting Started with Docker and Kubernetes](https://your-blog-link.com)
@@ -84,7 +92,7 @@ A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 **Let's Connect**
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile">
@@ -103,10 +111,10 @@ A brief description of your project. Highlight the tech stack and key features.
 
 ---
 
-## 🎉 Fun Fact
+## 💡 **Fun Fact**
 
 I once automated my entire morning routine using Python and Raspberry Pi! ☕🤖
 
 ---
 
-⭐️ From [Md Sabbir Mridha](https://github.com/S8374)
+⭐️ From [Your Name](https://github.com/S8374)
