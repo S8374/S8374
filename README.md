@@ -1,6 +1,6 @@
-<div align="center" style="position: relative;">
+<div align="center" style="">
   <!-- GIF as "background" -->
-  <img width="100%" style="height: 300px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem8zcmhuYnpnbDl0bzY5Z3l1bDFiZDh0NXRxczBvaDFkbXQ2ZDdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" alt="Coding GIF" />
+  <img width="100%" style="height: 300px; position: relative;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem8zcmhuYnpnbDl0bzY5Z3l1bDFiZDh0NXRxczBvaDFkbXQ2ZDdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" alt="Coding GIF" />
 
   <!-- Text Overlay -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
