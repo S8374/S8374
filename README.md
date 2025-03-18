@@ -24,7 +24,7 @@ I have a deep understanding of **JWT (JSON Web Token) security**, which I use to
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?logo=mui&logoColor=white&style=for-the-badge)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white&style=for-the-badge)
-![HeroUI](https://img.shields.io/badge/HeroUI-5A0EF8?logo=heroui&logoColor=white&style=for-the-badge)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?logo=heroui&logoColor=white&style=for-the-badge)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
