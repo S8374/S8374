@@ -54,5 +54,5 @@ I also specialize in **SEO-friendly web development**, ensuring that all website
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S8374&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S8374&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=S8374&theme=dark&hide_border=true)
