@@ -13,7 +13,11 @@ I also specialize in **SEO-friendly web development**, ensuring that all website
 ---
 ## 🛠️ Skills
 
-<img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dhOHEzeXlienRleXN6eGxhOTNyc24wbnpveXFnMHk2MWZldzNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." 
+     align="right" 
+     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dhOHEzeXlienRleXN6eGxhOTNyc24wbnpveXFnMHk2MWZldzNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
+     width="100px" 
+     height="100px" />
 
 ### **Frontend Development**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
