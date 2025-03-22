@@ -4,12 +4,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with a strong foundation in **Backend Development**. I love building seamless, user-friendly web applications and solving complex problems with clean and efficient code. With over **1+ year of experience**, I've worked on various projects, honing my skills in both frontend and backend technologies.
+I’m a passionate Full Stack Developer with a strong foundation in frontend technologies such as React.js, Next.js, JavaScript, Tailwind CSS, and Bootstrap, complemented by solid experience in backend development using Node.js, Express.js, MongoDB, Firebase, and JWT Authentication.
 
-I have a deep understanding of **JWT (JSON Web Token) security**, which I use to implement secure authentication and authorization mechanisms in my applications.
-
-I also specialize in **SEO-friendly web development**, ensuring that all websites I build are optimized for search engines, improving visibility and ranking. This includes strategies like **on-page SEO** (meta tags, alt text, heading structure), **technical SEO** (site speed, mobile-friendliness), and **content optimization**.
-
+With hands-on experience in SEO friendly website, Firebase Authentication, and RESTful API development, I bring a problem-solving mindset and a keen eye for design to every project. I'm constantly learning and implementing new technologies to enhance web performance and user engagement.
 ---
 ## 🛠️ Skills
 
@@ -24,7 +21,6 @@ I also specialize in **SEO-friendly web development**, ensuring that all website
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
