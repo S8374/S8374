@@ -6,7 +6,6 @@
 
 I’m a passionate Full Stack Developer with a strong foundation in frontend technologies such as React.js, Next.js, JavaScript, Tailwind CSS, and Bootstrap, complemented by solid experience in backend development using Node.js, Express.js, MongoDB, Firebase, and JWT Authentication.
 
-With hands-on experience in SEO friendly website, Firebase Authentication, and RESTful API development, I bring a problem-solving mindset and a keen eye for design to every project. I'm constantly learning and implementing new technologies to enhance web performance and user engagement.
 ---
 ## 🛠️ Skills
 
