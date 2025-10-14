@@ -49,7 +49,7 @@ I’m a passionate Full Stack Developer with a strong foundation in frontend tec
 ---
 ## 💼 Experience
 
-- **1+ Year** of hands-on experience in **Full-Stack Development** and **SEO-friendly web development**.
+- **3+ Year** of hands-on experience in **Full-Stack Development** and **SEO-friendly web development**.
 - Built and deployed multiple web applications using **React**, **Node.js**, **MongoDB**, with SEO strategies implemented.
 - Implemented **JWT-based authentication** for secure user login and session management.
 - Collaborated with teams to deliver high-quality, scalable solutions.
