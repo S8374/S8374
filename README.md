@@ -27,6 +27,8 @@ I’m a passionate Full Stack Developer with a strong foundation in frontend tec
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white&style=for-the-badge)
 ![HeroUI](https://img.shields.io/badge/HeroUI-000000?logo=heroui&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![shadcn UI](https://img.shields.io/badge/shadcn_UI-111827?style=for-the-badge)
 
 ---
 ### **Backend Development**
@@ -34,6 +36,8 @@ I’m a passionate Full Stack Developer with a strong foundation in frontend tec
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ---
 ### **Deploy and Package**
