@@ -136,7 +136,7 @@ I'm constantly learning and adapting to new technologies, always eager to take o
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
 [![Digital Wallet](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=Full_Stack_Digital-Wallet&theme=radical&bg_color=0D1117&show_owner=true)](https://github.com/S8374/Full_Stack_Digital-Wallet)
-[![Car Rental Service](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=Car_Rental_Service&theme=radical&bg_color=0D1117&show_owner=true)](https://github.com/S8374/Smri_Website-)
+[![Smri_Website-](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=Smri_Website-&theme=radical&bg_color=0D1117&show_owner=true)](https://github.com/S8374/Smri_Website-)
 
 </div>
 
@@ -144,8 +144,8 @@ I'm constantly learning and adapting to new technologies, always eager to take o
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=your-repo-3&theme=radical&bg_color=0D1117&show_owner=true)](https://github.com/S8374/Training-Consultancy)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=your-repo-4&theme=radical&bg_color=0D1117&show_owner=true)](https://github.com/S8374/NextJsProtfolio)
+[![Training-Consultancy](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=Training-Consultancy&theme=radical&bg_color=0D1117&show_owner=true)](https://github.com/S8374/Training-Consultancy)
+[![NextJsProtfolio](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=NextJsProtfolio&theme=radical&bg_color=0D1117&show_owner=true)](https://github.com/S8374/NextJsProtfolio)
 
 </div>
 
