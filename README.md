@@ -132,7 +132,6 @@ I'm constantly learning and adapting to new technologies, always eager to take o
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=your-repo-name&theme=radical&bg_color=0D1117)](https://github.com/S8374/Full_Stack_Digital-Wallet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S8374&repo=your-repo-name&theme=radical&bg_color=0D1117)](https://github.com/S8374/Smri_Website-)
 
 </div>
 
