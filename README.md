@@ -65,6 +65,8 @@ I'm constantly learning and adapting to new technologies, always eager to take o
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![NestJs](https://img.shields.io/badge/NestJs-000000?style=for-the-badge&logo=nestjs&logoColor=white)
 
 </div>
 
