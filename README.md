@@ -66,7 +66,7 @@ I'm constantly learning and adapting to new technologies, always eager to take o
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![NestJs](https://img.shields.io/badge/NestJs-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJs](https://img.shields.io/badge/NestJs-000000?style=for-the-badge&logo=nestjs&logoColor=red)
 
 </div>
 
@@ -80,9 +80,13 @@ I'm constantly learning and adapting to new technologies, always eager to take o
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
+
+### **App Development**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ---
 
 ## 🎯 Core Expertise
